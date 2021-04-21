@@ -833,7 +833,7 @@ padding: 15px;
 }
 
 /*----------------------------------------- portfolio popup------------------------------- */
-
+/* 
 .portfolio-popup{
     background-color:var(--bg-black-50);
     position: fixed;
@@ -864,4 +864,4 @@ padding: 15px;
 .portfolio-popup .pp-main-inner{
     background-color: gray;
     padding: 70px 0 50px;
-}
+} */
