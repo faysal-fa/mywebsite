@@ -27,7 +27,7 @@
 var navmanu = document.querySelector(".nav-menu")
 var open = document.querySelector(".hamburger-btn")
 var close = document.querySelector(".close-nav-menu")
-console.log(close)
+
 open.addEventListener("click",function(){
     navmanu.style.visibility = "visible";
 })
